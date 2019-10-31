@@ -13,10 +13,10 @@
 
 ## 效果预览
 * 主界面
-![](main.png)
+![](https://github.com/ahuangege/qipai/blob/master/main.png)
 * 创建比赛
-![](create.png)
+![](https://github.com/ahuangege/qipai/blob/master/create.png)
 * 匹配界面
-![](match.png)
+![](https://github.com/ahuangege/qipai/blob/master/match.png)
 * 中国象棋
-![](game.png)
+![](https://github.com/ahuangege/qipai/blob/master/game.png)
