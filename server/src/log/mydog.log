@@ -1,0 +1,106 @@
+[2019-10-10T23:40:39.899] [ERROR] mydog - match-1 a rpc client disconnected, game-1, ::ffff:127.0.0.1
+[2019-10-10T23:40:39.899] [ERROR] mydog - rank-1 a rpc client disconnected, game-1, ::ffff:127.0.0.1
+[2019-10-10T23:40:39.899] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server game-1 later
+[2019-10-10T23:40:39.900] [ERROR] mydog - info-1 a rpc client disconnected, game-1, ::ffff:127.0.0.1
+[2019-10-10T23:40:39.899] [ERROR] mydog - gameMain a rpc client disconnected, game-1, ::ffff:127.0.0.1
+[2019-10-10T23:40:39.899] [ERROR] mydog - login-1 a rpc client disconnected, game-1, ::ffff:127.0.0.1
+[2019-10-10T23:40:39.901] [ERROR] mydog - master-server-1 a monitor disconnected  game-1, ::ffff:127.0.0.1
+[2019-10-10T23:40:44.911] [ERROR] mydog - login-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-10T23:40:44.912] [ERROR] mydog - match-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-10T23:40:44.911] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-10T23:40:44.911] [ERROR] mydog - gameMain socket closed, reconnect the rpc server rank-1 later
+[2019-10-10T23:40:44.911] [ERROR] mydog - master-server-1 a monitor disconnected  rank-1, ::ffff:127.0.0.1
+[2019-10-10T23:40:44.912] [ERROR] mydog - info-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-10T23:40:49.920] [ERROR] mydog - login-1 socket closed, reconnect the rpc server match-1 later
+[2019-10-10T23:40:49.920] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server match-1 later
+[2019-10-10T23:40:49.921] [ERROR] mydog - info-1 socket closed, reconnect the rpc server match-1 later
+[2019-10-10T23:40:49.921] [ERROR] mydog - gameMain socket closed, reconnect the rpc server match-1 later
+[2019-10-10T23:40:49.921] [ERROR] mydog - master-server-1 a monitor disconnected  match-1, ::ffff:127.0.0.1
+[2019-10-10T23:40:54.930] [ERROR] mydog - login-1 a rpc client disconnected, gameMain, ::ffff:127.0.0.1
+[2019-10-10T23:40:54.931] [ERROR] mydog - info-1 a rpc client disconnected, gameMain, ::ffff:127.0.0.1
+[2019-10-10T23:40:54.931] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server gameMain later
+[2019-10-10T23:40:54.931] [ERROR] mydog - master-server-1 a monitor disconnected  gameMain, ::ffff:127.0.0.1
+[2019-10-10T23:40:59.945] [ERROR] mydog - login-1 a rpc client disconnected, info-1, ::ffff:127.0.0.1
+[2019-10-10T23:40:59.946] [ERROR] mydog - master-server-1 a monitor disconnected  info-1, ::ffff:127.0.0.1
+[2019-10-10T23:40:59.946] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server info-1 later
+[2019-10-10T23:41:04.960] [ERROR] mydog - login-1 a rpc client disconnected, connector-1, ::ffff:127.0.0.1
+[2019-10-10T23:41:04.960] [ERROR] mydog - master-server-1 a monitor disconnected  connector-1, ::ffff:127.0.0.1
+[2019-10-10T23:41:09.971] [ERROR] mydog - master-server-1 a monitor disconnected  login-1, ::ffff:127.0.0.1
+[2019-10-13T23:25:04.041] [ERROR] mydog - login-1 a rpc client disconnected, game-1, ::ffff:127.0.0.1
+[2019-10-13T23:25:04.039] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server game-1 later
+[2019-10-13T23:25:04.039] [ERROR] mydog - gameMain a rpc client disconnected, game-1, ::ffff:127.0.0.1
+[2019-10-13T23:25:04.039] [ERROR] mydog - match-1 a rpc client disconnected, game-1, ::ffff:127.0.0.1
+[2019-10-13T23:25:04.039] [ERROR] mydog - rank-1 a rpc client disconnected, game-1, ::ffff:127.0.0.1
+[2019-10-13T23:25:04.039] [ERROR] mydog - info-1 a rpc client disconnected, game-1, ::ffff:127.0.0.1
+[2019-10-13T23:25:09.050] [ERROR] mydog - match-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-13T23:25:09.050] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-13T23:25:09.050] [ERROR] mydog - info-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-13T23:25:09.050] [ERROR] mydog - gameMain socket closed, reconnect the rpc server rank-1 later
+[2019-10-13T23:25:09.054] [ERROR] mydog - login-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-13T23:25:11.044] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server game-1 later
+[2019-10-13T23:25:14.050] [ERROR] mydog - info-1 socket closed, reconnect the rpc server match-1 later
+[2019-10-13T23:25:14.052] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server match-1 later
+[2019-10-13T23:25:14.053] [ERROR] mydog - gameMain socket closed, reconnect the rpc server match-1 later
+[2019-10-13T23:25:14.058] [ERROR] mydog - login-1 socket closed, reconnect the rpc server match-1 later
+[2019-10-13T23:25:16.056] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-13T23:25:16.056] [ERROR] mydog - info-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-13T23:25:16.057] [ERROR] mydog - gameMain socket closed, reconnect the rpc server rank-1 later
+[2019-10-13T23:25:16.063] [ERROR] mydog - login-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-13T23:25:18.049] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server game-1 later
+[2019-10-13T23:25:19.052] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server gameMain later
+[2019-10-13T23:25:19.055] [ERROR] mydog - login-1 a rpc client disconnected, gameMain, ::ffff:127.0.0.1
+[2019-10-13T23:25:19.052] [ERROR] mydog - info-1 a rpc client disconnected, gameMain, ::ffff:127.0.0.1
+[2019-10-13T23:25:21.064] [ERROR] mydog - login-1 socket closed, reconnect the rpc server match-1 later
+[2019-10-13T23:25:21.067] [ERROR] mydog - info-1 socket closed, reconnect the rpc server match-1 later
+[2019-10-13T23:25:21.068] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server match-1 later
+[2019-10-13T23:25:23.061] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-13T23:25:23.061] [ERROR] mydog - info-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-13T23:25:23.065] [ERROR] mydog - login-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-13T23:25:24.053] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server info-1 later
+[2019-10-13T23:25:24.056] [ERROR] mydog - login-1 a rpc client disconnected, info-1, ::ffff:127.0.0.1
+[2019-10-13T23:25:25.053] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server game-1 later
+[2019-10-13T23:25:26.058] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server gameMain later
+[2019-10-13T23:25:28.068] [ERROR] mydog - login-1 socket closed, reconnect the rpc server match-1 later
+[2019-10-13T23:25:28.071] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server match-1 later
+[2019-10-13T23:25:29.064] [ERROR] mydog - login-1 a rpc client disconnected, connector-1, ::ffff:127.0.0.1
+[2019-10-13T23:25:30.069] [ERROR] mydog - login-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-16T23:29:00.576] [ERROR] mydog - login-1 a rpc client disconnected, game-1, ::ffff:127.0.0.1
+[2019-10-16T23:29:00.576] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server game-1 later
+[2019-10-16T23:29:00.576] [ERROR] mydog - rank-1 a rpc client disconnected, game-1, ::ffff:127.0.0.1
+[2019-10-16T23:29:00.578] [ERROR] mydog - master-server-1 a monitor disconnected  game-1, ::ffff:127.0.0.1
+[2019-10-16T23:29:00.577] [ERROR] mydog - match-1 a rpc client disconnected, game-1, ::ffff:127.0.0.1
+[2019-10-16T23:29:00.576] [ERROR] mydog - gameMain a rpc client disconnected, game-1, ::ffff:127.0.0.1
+[2019-10-16T23:29:00.576] [ERROR] mydog - info-1 a rpc client disconnected, game-1, ::ffff:127.0.0.1
+[2019-10-16T23:29:05.591] [ERROR] mydog - match-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-16T23:29:05.591] [ERROR] mydog - login-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-16T23:29:05.591] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-16T23:29:05.591] [ERROR] mydog - info-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-16T23:29:05.591] [ERROR] mydog - gameMain socket closed, reconnect the rpc server rank-1 later
+[2019-10-30T11:26:38.397] [ERROR] mydog - login-1 a rpc client disconnected, game-1, ::ffff:127.0.0.1
+[2019-10-30T11:26:38.397] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server game-1 later
+[2019-10-30T11:26:38.401] [ERROR] mydog - rank-1 a rpc client disconnected, game-1, ::ffff:127.0.0.1
+[2019-10-30T11:26:38.403] [ERROR] mydog - master-server-1 a monitor disconnected  game-1, ::ffff:127.0.0.1
+[2019-10-30T11:26:38.402] [ERROR] mydog - match-1 a rpc client disconnected, game-1, ::ffff:127.0.0.1
+[2019-10-30T11:26:38.399] [ERROR] mydog - gameMain a rpc client disconnected, game-1, ::ffff:127.0.0.1
+[2019-10-30T11:26:38.399] [ERROR] mydog - info-1 a rpc client disconnected, game-1, ::ffff:127.0.0.1
+[2019-10-30T11:26:43.392] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-30T11:26:43.393] [ERROR] mydog - login-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-30T11:26:43.393] [ERROR] mydog - gameMain socket closed, reconnect the rpc server rank-1 later
+[2019-10-30T11:26:43.393] [ERROR] mydog - info-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-30T11:26:43.393] [ERROR] mydog - master-server-1 a monitor disconnected  rank-1, ::ffff:127.0.0.1
+[2019-10-30T11:26:43.394] [ERROR] mydog - match-1 socket closed, reconnect the rpc server rank-1 later
+[2019-10-30T11:26:48.395] [ERROR] mydog - login-1 socket closed, reconnect the rpc server match-1 later
+[2019-10-30T11:26:48.396] [ERROR] mydog - info-1 socket closed, reconnect the rpc server match-1 later
+[2019-10-30T11:26:48.397] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server match-1 later
+[2019-10-30T11:26:48.399] [ERROR] mydog - gameMain socket closed, reconnect the rpc server match-1 later
+[2019-10-30T11:26:48.399] [ERROR] mydog - master-server-1 a monitor disconnected  match-1, ::ffff:127.0.0.1
+[2019-10-30T11:26:53.395] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server gameMain later
+[2019-10-30T11:26:53.395] [ERROR] mydog - login-1 a rpc client disconnected, gameMain, ::ffff:127.0.0.1
+[2019-10-30T11:26:53.395] [ERROR] mydog - master-server-1 a monitor disconnected  gameMain, ::ffff:127.0.0.1
+[2019-10-30T11:26:53.396] [ERROR] mydog - info-1 a rpc client disconnected, gameMain, ::ffff:127.0.0.1
+[2019-10-30T11:26:58.399] [ERROR] mydog - master-server-1 a monitor disconnected  info-1, ::ffff:127.0.0.1
+[2019-10-30T11:26:58.402] [ERROR] mydog - login-1 a rpc client disconnected, info-1, ::ffff:127.0.0.1
+[2019-10-30T11:26:58.402] [ERROR] mydog - connector-1 socket closed, reconnect the rpc server info-1 later
+[2019-10-30T11:27:03.394] [ERROR] mydog - master-server-1 a monitor disconnected  connector-1, ::ffff:127.0.0.1
+[2019-10-30T11:27:03.394] [ERROR] mydog - login-1 a rpc client disconnected, connector-1, ::ffff:127.0.0.1
+[2019-10-30T11:27:08.400] [ERROR] mydog - master-server-1 a monitor disconnected  login-1, ::ffff:127.0.0.1
