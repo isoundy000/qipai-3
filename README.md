@@ -10,3 +10,13 @@
 * 客户端运行环境：unity。
 * 由于个人精力和一些其他原因，暂不再继续开发。
 * 对项目结构和代码有疑问的，可加QQ群：875459630。
+
+## 效果预览
+* 主界面
+![](https://github.com/ahuangege/qipai/blob/master/main.png)
+* 创建比赛
+![](https://github.com/ahuangege/qipai/blob/master/create.png)
+* 匹配界面
+![](https://github.com/ahuangege/qipai/blob/master/match.png)
+* 中国象棋
+![](https://github.com/ahuangege/qipai/blob/master/game.png)
